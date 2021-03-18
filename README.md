@@ -27,3 +27,9 @@ Note：出于学习目的，目前使用的是3个月免费体验阿里云，后
 注意需要修改的是：
 
 ProfileGenerator\Tomcat部署代码\WEB-INF\classes\db.properties文件需要修改配置信息为自己的信息。![image-20210317193840693](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317193840693.png)
+
+
+
+后端连接方法：
+
+![后端连接图](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317175625568.png)
