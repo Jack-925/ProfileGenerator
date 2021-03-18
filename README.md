@@ -1,4 +1,4 @@
-![效果生成图](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317200127562.png)
+![效果图](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317200127562.png)
 
 本人阿里云服务器公网地址：120.78.230.102
 
@@ -16,7 +16,7 @@ Note：出于学习目的，目前使用的是3个月免费体验阿里云，后
 
 根据步骤信息录入完成后 ：
 
-![image-20210317193252458](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317193252458.png)
+![生成成功页面](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317193252458.png)
 
 生成成功，可以访问查看生成的个人简历。
 
@@ -26,6 +26,7 @@ Note：出于学习目的，目前使用的是3个月免费体验阿里云，后
 
 注意需要修改的是：
 
+<<<<<<< HEAD
 ProfileGenerator\Tomcat部署代码\WEB-INF\classes\db.properties文件需要修改配置信息为自己的信息。![image-20210317193840693](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317193840693.png)
 
 
@@ -33,3 +34,6 @@ ProfileGenerator\Tomcat部署代码\WEB-INF\classes\db.properties文件需要修
 后端连接方法：
 
 ![后端连接图](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317175625568.png)
+=======
+ProfileGenerator\Tomcat部署代码\WEB-INF\classes\db.properties文件需要修改配置信息为自己的信息。![配置信息图](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317193840693.png)
+>>>>>>> 2c510b3a9ccd3d786337193eb991b04b68e5f531
