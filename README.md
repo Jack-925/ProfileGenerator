@@ -1,4 +1,4 @@
-![效果生成图](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317200127562.png)
+![](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317200127562.png)
 
 本人阿里云服务器公网地址：120.78.230.102
 
