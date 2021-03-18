@@ -16,7 +16,7 @@ Note：出于学习目的，目前使用的是3个月免费体验阿里云，后
 
 根据步骤信息录入完成后 ：
 
-![image-20210317193252458](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317193252458.png)
+![生成成功页面](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317193252458.png)
 
 生成成功，可以访问查看生成的个人简历。
 
@@ -26,4 +26,4 @@ Note：出于学习目的，目前使用的是3个月免费体验阿里云，后
 
 注意需要修改的是：
 
-ProfileGenerator\Tomcat部署代码\WEB-INF\classes\db.properties文件需要修改配置信息为自己的信息。![image-20210317193840693](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317193840693.png)
+ProfileGenerator\Tomcat部署代码\WEB-INF\classes\db.properties文件需要修改配置信息为自己的信息。![配置信息图](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317193840693.png)
