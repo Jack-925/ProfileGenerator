@@ -36,4 +36,4 @@ ProfileGenerator\Tomcat部署代码\WEB-INF\classes\db.properties文件需要修
 ![后端连接图](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317175625568.png)
 =======
 ProfileGenerator\Tomcat部署代码\WEB-INF\classes\db.properties文件需要修改配置信息为自己的信息。![配置信息图](https://github.com/Jack-925/ProfileGenerator/tree/main/pic/image-20210317193840693.png)
->>>>>>> 2c510b3a9ccd3d786337193eb991b04b68e5f531
+
